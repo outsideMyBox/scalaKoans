@@ -1,0 +1,11 @@
+.cache
+.classpath
+.history
+.idea
+*.md.html
+.metadata/
+*.old
+.project
+target
+*.swp
+*.un~
